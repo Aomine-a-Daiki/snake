@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Amir\\C#\\OOP_snake_C#\\Snake\\Snake\\Snake.csproj",
+      "projectUniqueName": "D:\\Amir\\C#\\snake\\Snake\\Snake.csproj",
       "projectName": "Snake",
-      "projectPath": "D:\\Amir\\C#\\OOP_snake_C#\\Snake\\Snake\\Snake.csproj",
+      "projectPath": "D:\\Amir\\C#\\snake\\Snake\\Snake.csproj",
       "packagesPath": "C:\\Users\\meow\\.nuget\\packages\\",
-      "outputPath": "D:\\Amir\\C#\\OOP_snake_C#\\Snake\\Snake\\obj\\",
+      "outputPath": "D:\\Amir\\C#\\snake\\Snake\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\"
