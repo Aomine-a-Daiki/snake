@@ -15,7 +15,10 @@ namespace Snake
 
             HorizontalLine line = new HorizontalLine(5, 10, 8, '+');
             line.Draw();
-            
+
+            VerticalLine vLine = new VerticalLine(15, 3, 9, '*');
+            vLine.Draw();
+
             Console.ReadKey();
         }
 
