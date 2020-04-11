@@ -24,3 +24,14 @@ D:\Amir\C#\snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
 D:\Amir\C#\snake\Snake\obj\Debug\netcoreapp3.1\Snake.dll
 D:\Amir\C#\snake\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
 D:\Amir\C#\snake\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache
+D:\Desktop\ \c#\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+D:\Desktop\ \c#\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+D:\Desktop\ \c#\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+D:\Desktop\ \c#\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+D:\Desktop\ \c#\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+D:\Desktop\ \c#\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+D:\Desktop\ \c#\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+D:\Desktop\ \c#\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+D:\Desktop\ \c#\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+D:\Desktop\ \c#\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+D:\Desktop\ \c#\Snake\obj\Debug\netcoreapp3.1\Snake.pdb

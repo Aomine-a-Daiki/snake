@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Amir\\C#\\snake\\Snake\\Snake.csproj": {}
+    "D:\\Desktop\\ \\C#\\Snake\\Snake.csproj": {}
   },
   "projects": {
-    "D:\\Amir\\C#\\snake\\Snake\\Snake.csproj": {
+    "D:\\Desktop\\ \\C#\\Snake\\Snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Amir\\C#\\snake\\Snake\\Snake.csproj",
+        "projectUniqueName": "D:\\Desktop\\ \\C#\\Snake\\Snake.csproj",
         "projectName": "Snake",
-        "projectPath": "D:\\Amir\\C#\\snake\\Snake\\Snake.csproj",
-        "packagesPath": "C:\\Users\\meow\\.nuget\\packages\\",
-        "outputPath": "D:\\Amir\\C#\\snake\\Snake\\obj\\",
+        "projectPath": "D:\\Desktop\\ \\C#\\Snake\\Snake.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\ \\C#\\Snake\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\meow\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -56,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
