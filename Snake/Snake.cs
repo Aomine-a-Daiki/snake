@@ -39,6 +39,19 @@ namespace Snake
             return nextPoint;
         }
 
+        public bool Eat(Point food)
+        {
+            Point head = pList.Last();
+            if (head.isHit(food))
+            {
+                food.sym = head.sym;
+                pList.Add(food);
+                return true;
+            }
+                
+            else return false;
+        }
+
         public void HandleKey(ConsoleKey key)
         {
             if (key == ConsoleKey.LeftArrow)

@@ -50,6 +50,11 @@ namespace Snake
             Draw();
         }
 
+        public bool isHit(Point somePoint)
+        {
+            return x == somePoint.x && y == somePoint.y;
+        }
+
         public void Draw()
         {
             Console.SetCursorPosition(x, y);
